@@ -1,5 +1,5 @@
 public abstract class Registro {
-    
+
     protected Computador computador;
     protected String fecha;
 
