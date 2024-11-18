@@ -1,5 +1,8 @@
+RamaGus
 import java.util.Scanner;
 
+
+main
 public class Main {
     public static void main(String[] args) {
         ControlRegistro controlRegistro = new ControlRegistro();
@@ -40,6 +43,7 @@ public class Main {
 
         scanner.close();
     }
+RamaGus
 
     private static void registrarEntrada(ControlRegistro controlRegistro, Scanner scanner) {
         System.out.print("Ingrese la marca del computador: ");
@@ -62,3 +66,6 @@ public class Main {
     }
 }
 
+
+}
+main
