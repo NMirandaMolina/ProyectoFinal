@@ -1,4 +1,5 @@
 public class RegistroEntrada {
+
     public RegistroEntrada(Computador computador, String fecha) {
         super(computador, fecha);
     }
@@ -9,5 +10,5 @@ public class RegistroEntrada {
         computador.mostrarInfo();
         System.out.println("Fecha de entrada: " + fecha);
     }
-
 }
+
